@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WBH_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\WBH_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\UE4Editor\Development\WBH_Project\WBH_Project.cpp.obj"
+"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\UE4Editor\Development\WBH_Project\WBH_ProjectGameModeBase.cpp.obj"
+"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\UE4Editor\Development\WBH_Project\WBH_Project.init.gen.cpp.obj"
+"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\UE4Editor\Development\WBH_Project\WBH_ProjectGameModeBase.gen.cpp.obj"
+"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\UE4Editor\Development\WBH_Project\Default.rc2.res"
+/OUT:"D:\Collabs\DU\wizardsbrotherhood\WBH_Project\Intermediate\Build\Win64\UE4Editor\Development\WBH_Project\UE4Editor-WBH_Project.lib"
