@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\WBH_Project.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{03F82E29-CB58-490D-A956-3AFB157483AD}</UniqueIdentifier>
+      <UniqueIdentifier>{DB637150-A818-4AC9-9DE1-F1EE946EA75E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\WBH_Project.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F31ABD62-F600-4171-8133-F0891A76D02D}</UniqueIdentifier>
+      <UniqueIdentifier>{944B634B-76E5-43E2-9D6F-00E43146E4B3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\WBH_Project">
-      <UniqueIdentifier>{05721DD4-4E58-4E4A-9395-5552AB8EA9C2}</UniqueIdentifier>
+      <UniqueIdentifier>{9A3B2636-169C-405A-ADAF-1CAD599310A7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\WBH_Project\WBH_Project.Build.cs">
       <Filter>Source\WBH_Project</Filter>
@@ -40,6 +40,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\WBH_Project\WBH_ProjectGameModeBase.h">
       <Filter>Source\WBH_Project</Filter>
+    </ClInclude>
+    <Filter Include="Source\WBH_Project\Player">
+      <UniqueIdentifier>{73B1F7A9-0EEC-45AF-ABDC-A9B993AEF9A3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WBH_Project\Player\WBHPlayer.cpp">
+      <Filter>Source\WBH_Project\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WBH_Project\Player\WBHPlayer.h">
+      <Filter>Source\WBH_Project\Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
