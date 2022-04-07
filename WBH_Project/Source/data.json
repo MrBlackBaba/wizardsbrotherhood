@@ -1,21 +1,24 @@
 {
-    "player": {
-        "states": {
-            "speedrate": 0,
-            "hp" : 0,
-            "scope": 0,
-            "dmg" : 0,
-            "madness" : 0,
-            ""
-            
-            
+    "playerstats": {
+        "hp": 0,
+        "movementspeed": 0,
+        "luck": 0,
+        "madness": 0,
+        "camaradesmax": 0
+    },
+    "weaponstats": {
+        "damage": 0,
+        "speedrate": 0,
+        "bulletspeed": 0,
+        "size": 0,
+        "lifetime": 0
+    },
+    "tools": [
+        {
+            "name": "marteau"
         },
-        "tools": [{
-                "name": "marteau"
-            },
-            {
-                "name": "ciseaux"
-            }
-        ]
-    }
+        {
+            "name": "ciseaux"
+        }
+    ]
 }
