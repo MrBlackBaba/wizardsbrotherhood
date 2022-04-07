@@ -13,21 +13,48 @@
         "size": 0,
         "lifetime": 0
     },
-    "tools": [{
+    "perks": [
+        {
             "name": "marteau de merde",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
-            "modifiers": [{
+            "modifiers": [
+                {
                     "type": "speed",
                     "value": -12
-                },
-                {
-                    "type": "bulletspeed",
-                    "value": 10
                 }
             ]
         },
         {
-            "name": "ciseaux"
+            "name": "marteau de pipi",
+            "description": "Aliquip culpa veniam cillum veniam do cillum et.",
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                }
+            ]
+        }
+    ],
+    "stuff": [
+        {
+            "name": "bonne pelle",
+            "description": "Aliquip culpa veniam cillum veniam do cillum et.",
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                }
+            ]
+        },
+        {
+            "name": "bon rateau",
+            "description": "Aliquip culpa veniam cillum veniam do cillum et.",
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                }
+            ]
         }
     ]
 }
