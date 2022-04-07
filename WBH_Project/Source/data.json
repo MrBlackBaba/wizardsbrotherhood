@@ -37,6 +37,7 @@
             "hp": 0,
             "madness": 0,
             "luck": 0,
+            "value": 0,
             "weaponstats": {
                 "damage": 0,
                 "speedrate": 0,
