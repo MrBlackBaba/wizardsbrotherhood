@@ -18,7 +18,8 @@
         "dotDamage": 0,
         "impactDamage": 0,
         "alterStateDuration": 0,
-        "critMultiplicator": 0
+        "critMultiplicator": 0,
+        "multiplicator": 0
     },
     "schoolmates": [{
         "level": 0,
