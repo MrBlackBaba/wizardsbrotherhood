@@ -1,0 +1,21 @@
+{
+    "player": {
+        "states": {
+            "speedrate": 0,
+            "hp" : 0,
+            "scope": 0,
+            "dmg" : 0,
+            "madness" : 0,
+            ""
+            
+            
+        },
+        "tools": [{
+                "name": "marteau"
+            },
+            {
+                "name": "ciseaux"
+            }
+        ]
+    }
+}
