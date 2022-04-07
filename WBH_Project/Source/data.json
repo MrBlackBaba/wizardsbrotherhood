@@ -21,54 +21,68 @@
         "critMultiplicator": 0,
         "multiplicator": 0
     },
-    "schoolmates": [{
-        "level": 0,
-        "hp": 0,
-        "madness": 0,
-        "luck": 0,
-        "weaponstats": {
-            "damage": 0,
-            "speedrate": 0,
-            "bulletspeed": 0,
-            "size": 0,
-            "lifetime": 0
+    "schoolmates": [
+        {
+            "level": 0,
+            "hp": 0,
+            "madness": 0,
+            "luck": 0,
+            "value": 0,
+            "weaponstats": {
+                "damage": 0,
+                "speedrate": 0,
+                "bulletspeed": 0,
+                "size": 0,
+                "lifetime": 0
+            }
         }
-    }],
-    "perks": [{
+    ],
+    "perks": [
+        {
             "name": "marteau de merde",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
-            "modifiers": [{
-                "type": "speed",
-                "value": -12
-            }, {
-                "type": "damage",
-                "value": 2
-            }]
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                },
+                {
+                    "type": "damage",
+                    "value": 2
+                }
+            ]
         },
         {
             "name": "marteau de pipi",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
-            "modifiers": [{
-                "type": "speed",
-                "value": -12
-            }]
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                }
+            ]
         }
     ],
-    "stuff": [{
+    "stuff": [
+        {
             "name": "bonne pelle",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
-            "modifiers": [{
-                "type": "speed",
-                "value": -12
-            }]
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                }
+            ]
         },
         {
             "name": "bon rateau",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
-            "modifiers": [{
-                "type": "speed",
-                "value": -12
-            }]
+            "modifiers": [
+                {
+                    "type": "speed",
+                    "value": -12
+                }
+            ]
         }
     ]
 }
