@@ -13,9 +13,17 @@
         "size": 0,
         "lifetime": 0
     },
-    "tools": [
-        {
-            "name": "marteau"
+    "tools": [{
+            "name": "marteau de merde",
+            "modifiers": [{
+                    "type": "speed",
+                    "value": -12
+                },
+                {
+                    "type": "bulletspeed",
+                    "value": 10
+                }
+            ]
         },
         {
             "name": "ciseaux"
