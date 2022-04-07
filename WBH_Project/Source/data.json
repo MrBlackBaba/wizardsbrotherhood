@@ -17,14 +17,9 @@
             "name": "marteau de merde",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
             "modifiers": [{
-                    "type": "speed",
-                    "value": -12
-                },
-                {
-                    "type": "bulletspeed",
-                    "value": 10
-                }
-            ]
+                "type": "bulletspeed",
+                "value": 10
+            }]
         },
         {
             "name": "ciseaux"
