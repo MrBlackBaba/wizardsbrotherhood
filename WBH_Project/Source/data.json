@@ -4,21 +4,44 @@
         "movementspeed": 0,
         "luck": 0,
         "madness": 0,
-        "camaradesmax": 0
+        "schoolmatesmax": 0,
+        "critChance": 0
     },
     "weaponstats": {
         "damage": 0,
         "speedrate": 0,
         "bulletspeed": 0,
         "size": 0,
-        "lifetime": 0
+        "distance": 0,
+        "hitMax": null,
+        "dotLifetime": 0,
+        "dotDamage": 0,
+        "impactDamage": 0,
+        "alterStateDuration": 0,
+        "critMultiplicator": 0
     },
+    "schoolmates": [{
+        "level": 0,
+        "hp": 0,
+        "madness": 0,
+        "luck": 0,
+        "weaponstats": {
+            "damage": 0,
+            "speedrate": 0,
+            "bulletspeed": 0,
+            "size": 0,
+            "lifetime": 0
+        }
+    }],
     "perks": [{
             "name": "marteau de merde",
             "description": "Aliquip culpa veniam cillum veniam do cillum et.",
             "modifiers": [{
                 "type": "speed",
                 "value": -12
+            }, {
+                "type": "damage",
+                "value": 2
             }]
         },
         {
